@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExtensionList>
+    <Extension Id="com.router-blank.panel">
+        <HostList>
+            <Host Name="ILST" Port="4433" />
+            <Host Name="AEFT" Port="4434" />
+            <Host Name="PHXS" Port="4435" />
+            <Host Name="PPRO" Port="4436" />
+            <Host Name="IDSN" Port="4437" />
+            <Host Name="AUDT" Port="4438" />
+        </HostList>
+    </Extension>
+</ExtensionList>
